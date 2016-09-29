@@ -1,0 +1,17 @@
+/*CSS PAGE! WOOHOO */
+body{
+	Background-color: #0000ff ;
+	color: #000000;
+	width: 80%
+	text-align: center;
+}
+p{
+font-family: Avenir;
+}
+
+ul {
+	list-style-position: inside;
+	}
+ol {
+list-style-position: inside;
+	}
